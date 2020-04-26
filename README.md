@@ -12,4 +12,7 @@ Simple site
 
 ##Another vital read
 
-Crazy read blahaaha 
+Crazy read blahaaha
+
+##Please fork repo
+merge example 
